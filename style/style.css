@@ -225,7 +225,7 @@ transform: scale(1.06);}
 .refer{margin: 2rem 0;
 background-color: rgba(255, 0, 0, 0.055);
 padding: 1rem 1rem;}
-.refer a:hover{color: white;}
+.refer a:hover{color: rgb(241, 241, 241);}
 
 /*----container*/
 .container{
